@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=M1.0/160106
+Name=支付宝主控
+Comment=支付宝主控
+Icon=
+Exec=/home/user0/Manage/Manage
+Path=/home/user0/Manage
+Terminal=false
+

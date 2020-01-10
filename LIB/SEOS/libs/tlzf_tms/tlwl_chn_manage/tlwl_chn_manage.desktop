@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=16.12.09
+Name=收银宝主控
+Comment=收银宝主控
+Icon=
+Exec=/home/user0/tlwl_chn_manage/tlwl_chn_manage
+Path=/home/user0/tlwl_chn_manage
+Terminal=false
+

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=01.04.07
+Name=通联主控
+Comment=通联主控
+Icon=
+Exec=/home/user0/tlzf_chn_manage/tlzf_chn_manage
+Path=/home/user0/tlzf_chn_manage
+Terminal=false
+

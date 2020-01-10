@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=V000_02.04.01
+Name=银盛主控
+Comment=银盛主控
+Icon=
+Exec=/home/user0/Manage/Manage
+Path=/home/user0/Manage
+Terminal=false
+

@@ -1,0 +1,5 @@
+﻿2016/8/17 Lydia
+1.wc_ready_pppclose函数，如果是E_WNET_RENEW_PPPOPEN模式没有执行到。修正此问题。
+2.同步动态库的更改
+3.第二次ppp open的时候，以前的授权方式写死是chap，现在改成如果第一次是chap,则第二次是pap,如果第一次是pap,则第二次是chap.
+版本号为1.1.0

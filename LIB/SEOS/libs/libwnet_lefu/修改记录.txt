@@ -1,0 +1,5 @@
+﻿2015/7/27 Lydia
+1.wc_ready_pppclose函数，如果是E_WNET_RENEW_PPPOPEN模式没有执行到。修正此问题。
+
+2015/6/18 Lydia
+1.按照乐富要求修改，一次PPP连接40秒-》上下电-》三次PPP连接分别15秒-》上下电-》两次PPP连接分别20秒
